@@ -1,11 +1,11 @@
 <?php
 /**
-* Plugin Name: DIO YT Channel
-* Plugin URI: http://www.dioestudio.com/
+* Plugin Name: MM-YT Channel
+* Plugin URI: https://github.com/LordMachacon/yt-plugin
 * Description: Plugin para canal de Youtube.
 * Version: 1.0 En desarrollo
-* Author: DIO Estudio
-* Author URI: http://dioestudio.com/
+* Author: Manuel Machacon Cantillo
+* Author URI: https://github.com/LordMachacon
 **/
 
 add_action('admin_menu', 'menu_dio_yt');
